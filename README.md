@@ -27,6 +27,7 @@ cp .example.env .env
 
 ```env
 OPENAI_API_KEY={Your OpenAI Key}
+DISCORD_TOKEN={Your Discord Token}
 ```
 
 ### Dependencies
